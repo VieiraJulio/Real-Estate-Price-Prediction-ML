@@ -1,7 +1,7 @@
 # Previsão de preços de imóveis na Califórnia
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://priceprediction-vieirajulio.streamlit.app/)
-![Python](https://img.shields.io/badge/python-3.11%2B-3670A0?logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3.11-3670A0?logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6-F7931E?logo=scikitlearn&logoColor=white)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
