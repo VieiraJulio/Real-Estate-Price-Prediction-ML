@@ -182,7 +182,7 @@ As versões estão em [`requirements.txt`](requirements.txt).
 
 ## Autor
 
-**Julio Vieira**, analista de dados.
+**Julio Vieira**
 [GitHub](https://github.com/VieiraJulio) · [LinkedIn](https://www.linkedin.com/in/juliostefanoramosvieira)
 
 Sugestões e melhorias são bem-vindas, pode abrir uma *issue*.
